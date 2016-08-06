@@ -1,0 +1,48 @@
+_repo: Mrs.-Mary-Robinson-Written-by-Herself---13-With-the-lives-of-the-Duchesses-of-Gordon-and-Devon__9822
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Thomson, A. T., Mrs.
+    aliases:
+    - Wharton, Grace
+    - Thomson, M. A., Mrs.
+    - Thomson, Katherine Byerley
+    birthdate: 1797
+    deathdate: 1862
+    gutenberg_agent_id: '9623'
+    url: http://www.gutenberg.org/2009/agents/9623
+  - agent_name: Wharton, Philip
+    aliases:
+    - Thomson, J. Cockburn (John Cockburn)
+    - Thomson, John Cockburn
+    - Splene, Megathym
+    birthdate: 1834
+    deathdate: 1860
+    gutenberg_agent_id: '4635'
+    url: http://www.gutenberg.org/2009/agents/4635
+  - agent_name: Robinson, Mary
+    birthdate: 1758
+    deathdate: 1800
+    gutenberg_agent_id: '3155'
+    url: http://www.gutenberg.org/2009/agents/3155
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Robinson_(poet)
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beaux and Belles of England
+subjects:
+- !lcsh 'Gordon, Jane Gordon, Duchess of, 1748-1812'
+- !lcc 'DA'
+- !lcsh 'Devonshire, Georgiana Spencer Cavendish, Duchess of, 1757-1806'
+- !lcsh 'Robinson, Mary, 1758-1800'
+- GITenberg
+title: "Mrs. Mary Robinson, Written by Herself,\r\nWith the lives of the Duchesses\
+  \ of Gordon and Devonshire"
+url: http://www.gutenberg.org/ebooks/9822
