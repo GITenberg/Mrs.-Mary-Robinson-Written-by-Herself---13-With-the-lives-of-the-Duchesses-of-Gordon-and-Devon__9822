@@ -1,5 +1,8 @@
 _repo: Mrs.-Mary-Robinson-Written-by-Herself---13-With-the-lives-of-the-Duchesses-of-Gordon-and-Devon__9822
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Thomson, A. T., Mrs.
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3155
     wikipedia: http://en.wikipedia.org/wiki/Mary_Robinson_(poet)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9822#Mrs.-Mary-Robinson-Written-by-Herself---13-With-the-lives-of-the-Duchesses-of-Gordon-and-Devon_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
